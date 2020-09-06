@@ -1,0 +1,52 @@
+import Vue from "vue";
+import {
+  DropdownMenu,
+  DropdownItem,
+  Search,
+  Grid,
+  GridItem,
+  NoticeBar,
+  NavBar,
+  Step,
+  Steps,
+  List,
+  Panel,
+  Cell,
+  CellGroup,
+  Toast,
+  Dialog,
+  Icon,
+  Divider,
+  Collapse,
+  Loading,
+  CollapseItem,
+  Button,
+  Swipe,
+  SwipeItem,
+  Popup
+} from "vant";
+
+Vue.use(DropdownMenu);
+Vue.use(DropdownItem);
+Vue.use(Search);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(NoticeBar);
+Vue.use(NavBar);
+Vue.use(Panel);
+Vue.use(Step);
+Vue.use(Steps);
+Vue.use(List);
+Vue.use(Toast);
+Vue.use(Icon);
+Vue.use(Divider);
+Vue.use(Loading);
+Vue.use(Collapse);
+Vue.use(CollapseItem);
+Vue.use(List);
+Vue.use(Button);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Popup);
+Vue.use(Cell);
+Vue.use(CellGroup);

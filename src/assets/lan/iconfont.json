@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1647961",
+      "name": "老挝",
+      "font_class": "laozhua",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "3594468",
+      "name": "中国国旗",
+      "font_class": "guoqi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6564950",
+      "name": "语言",
+      "font_class": "yuyan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "7434246",
+      "name": "laos 老挝",
+      "font_class": "laoslaozhua",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "8074671",
+      "name": "icon_LA(老挝)",
+      "font_class": "icon_LAlaozhua",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "9086168",
+      "name": "中国",
+      "font_class": "zhongguo-",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "9170564",
+      "name": "语言 ",
+      "font_class": "yuyan1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10136226",
+      "name": "老挝",
+      "font_class": "laozhua1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11176637",
+      "name": "老挝",
+      "font_class": "laozhua2",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "11533982",
+      "name": "中文",
+      "font_class": "zhongwen",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "11734671",
+      "name": "语言",
+      "font_class": "yuyan2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12933278",
+      "name": "中国",
+      "font_class": "zhongguo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13176733",
+      "name": "语言",
+      "font_class": "yuyan3",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
